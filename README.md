@@ -1,6 +1,9 @@
 # Recipe/Grocery/Cookbook App (Sizzle)
 
 Download:
+<a href="https://apps.apple.com/us/app/sizzle-shop-recipes/id6479204497">App Store<a/>
+
+Website:
 <a><https://www.joinsizzle.app><a/>
 
 A creator-first platform that pairs cooking content with seamless shopping integrations in which you can discover and shop recipes and ingredients from top grocery services.
