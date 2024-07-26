@@ -1,7 +1,8 @@
 # Recipe/Grocery/Cookbook App (Sizzle)
 
 Download:
-<a href="https://apps.apple.com/us/app/sizzle-shop-recipes/id6479204497">App Store<a/>
+
+[<img src="screens/app_store.png" width="250">](https://apps.apple.com/us/app/sizzle-shop-recipes/id6479204497)
 
 Website:
 <a><https://www.joinsizzle.app><a/>
